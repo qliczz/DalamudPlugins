@@ -51,7 +51,7 @@
   },
   {
     "Author": "斯温",
-    "Name": "爆了吗？",
+    "Name": "Is that a crit？",
     "InternalName": "BaoleMaLe",
     "Description": "统计玩家打出的伤害技能的释放/命中/直击/暴击/直暴次数与几率，并用 FFLogs 风格配色评价直暴运气。",
     "Punchline": "你这一波，爆了吗？",
@@ -64,14 +64,14 @@
     ],
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "AssemblyVersion": "0.1.1.0",
-    "TestingAssemblyVersion": "0.1.1.0",
+    "AssemblyVersion": "0.2.0.0",
+    "TestingAssemblyVersion": "0.2.0.0",
     "RepoUrl": "https://github.com/qliczz/BaoleMaLe",
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/qliczz/BaoleMaLe/releases/download/v0.1.1.0/BaoleMaLe.zip",
-    "DownloadLinkUpdate": "https://github.com/qliczz/BaoleMaLe/releases/download/v0.1.1.0/BaoleMaLe.zip",
-    "DownloadLinkTesting": "https://github.com/qliczz/BaoleMaLe/releases/download/v0.1.1.0/BaoleMaLe.zip"
+    "DownloadLinkInstall": "https://github.com/qliczz/BaoleMaLe/releases/download/v0.2.0.0/BaoleMaLe.zip",
+    "DownloadLinkUpdate": "https://github.com/qliczz/BaoleMaLe/releases/download/v0.2.0.0/BaoleMaLe.zip",
+    "DownloadLinkTesting": "https://github.com/qliczz/BaoleMaLe/releases/download/v0.2.0.0/BaoleMaLe.zip"
   }
 ]
