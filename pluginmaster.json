@@ -53,25 +53,29 @@
     "Author": "斯温",
     "Name": "Is that a crit？",
     "InternalName": "BaoleMaLe",
-    "Description": "统计玩家打出的伤害技能的释放/命中/直击/暴击/直暴次数与几率，并用 FFLogs 风格配色评价直暴运气。",
+    "Description": "统计伤害技能的直暴运气(FFLogs风格配色)，并升级为轻量战斗数据记录器：本队全员 DPS / aDPS / 近似 rDPS、技能时间轴、多目标统计、团辅BUFF追踪与风趣战斗点评，技能表带图标。",
     "Punchline": "你这一波，爆了吗？",
     "Tags": [
       "combat",
       "stats",
       "crit",
       "direct hit",
-      "luck"
+      "luck",
+      "history",
+      "dps",
+      "party",
+      "timeline"
     ],
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "AssemblyVersion": "0.3.0.0",
-    "TestingAssemblyVersion": "0.2.0.0",
+    "AssemblyVersion": "0.4.0.0",
+    "TestingAssemblyVersion": "0.4.0.0",
     "RepoUrl": "https://github.com/qliczz/BaoleMaLe",
     "IsHide": false,
     "IsTestingExclusive": false,
     "LastUpdate": 0,
-    "DownloadLinkInstall": "https://github.com/qliczz/BaoleMaLe/releases/download/v0.3.0.0/BaoleMaLe.zip",
-    "DownloadLinkUpdate": "https://github.com/qliczz/BaoleMaLe/releases/download/v0.3.0.0/BaoleMaLe.zip",
-    "DownloadLinkTesting": "https://github.com/qliczz/BaoleMaLe/releases/download/v0.3.0.0/BaoleMaLe.zip"
+    "DownloadLinkInstall": "https://github.com/qliczz/BaoleMaLe/releases/download/v0.4.0.0/BaoleMaLe.zip",
+    "DownloadLinkUpdate": "https://github.com/qliczz/BaoleMaLe/releases/download/v0.4.0.0/BaoleMaLe.zip",
+    "DownloadLinkTesting": "https://github.com/qliczz/BaoleMaLe/releases/download/v0.4.0.0/BaoleMaLe.zip"
   }
 ]
