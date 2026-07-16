@@ -9,8 +9,9 @@ https://github.com/qliczz/DalamudPlugins/releases/latest/download/pluginmaster.j
 ## 当前收录
 
 - **RaceKnight** —— 高度自定义的人物 / NPC 过滤插件
-- **NEVERMOVE** —— 在小地图 / 大地图 / 游戏画面中高亮好友、队友与部队成员
-- **爆了吗？** —— 统计伤害技能的释放/命中/直击/暴击/直暴次数与几率，并给出 FFLogs 风格直暴运气评分
+- **W.T.H.F.** —— 在小地图 / 大地图 / 游戏画面中高亮好友、队友与部队成员
+- **Is that a crit？** —— 统计伤害、直暴运气、本队 DPS、技能时间轴与多目标数据
+- **旋转教练** —— 分析实际技能序列、GCD 节奏、延迟与停顿
 
 ## 如何添加（XIVLauncherCN）
 
@@ -22,5 +23,5 @@ https://github.com/qliczz/DalamudPlugins/releases/latest/download/pluginmaster.j
 
 ## 新增插件
 
-在 `pluginmaster.json` 数组里追加一项（字段对齐 RaceKnight / NEVERMOVE / 爆了吗？），
+在 `pluginmaster.json` 数组里追加一项（字段对齐现有插件），
 重新发一个 Release（把 `pluginmaster.json` 作为 release 附件）即可生效。
