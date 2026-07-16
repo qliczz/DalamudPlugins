@@ -1,0 +1,20 @@
+name: Validate plugin index
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5 # v4
+
+      - name: Validate manifests and release ZIPs
+        shell: pwsh
+        run: ./scripts/validate-plugin-index.ps1
