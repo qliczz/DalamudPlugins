@@ -102,6 +102,28 @@
     "DownloadLinkInstall": "https://github.com/qliczz/RotationCoach/releases/download/v1.1.0.0/RotationCoach.zip",
     "DownloadLinkUpdate": "https://github.com/qliczz/RotationCoach/releases/download/v1.1.0.0/RotationCoach.zip",
     "DownloadLinkTesting": "https://github.com/qliczz/RotationCoach/releases/download/v1.1.0.0/RotationCoach.zip"
+  },
+  {
+    "Author": "斯温",
+    "Name": "关键技能时间轴",
+    "InternalName": "KeySkillTimeline",
+    "Description": "为妖星乱舞绝境战的白魔法师提供可编辑的关键技能时间轴。支持每项技能独立开关、颜色、提前秒数、中文语音、计划编辑、导入导出、手动及首领读条自动校时。命令：/kst",
+    "Punchline": "可视化副本技能计划、提前提醒与读条校时。",
+    "Tags": [
+      "timeline",
+      "white mage",
+      "utility"
+    ],
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "AssemblyVersion": "0.1.0.0",
+    "TestingAssemblyVersion": "0.1.0.0",
+    "RepoUrl": "https://github.com/qliczz/KeySkillTimeline",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1785768721,
+    "DownloadLinkInstall": "https://github.com/qliczz/KeySkillTimeline/releases/download/v0.1.0/KeySkillTimeline.zip",
+    "DownloadLinkUpdate": "https://github.com/qliczz/KeySkillTimeline/releases/download/v0.1.0/KeySkillTimeline.zip",
+    "DownloadLinkTesting": "https://github.com/qliczz/KeySkillTimeline/releases/download/v0.1.0/KeySkillTimeline.zip"
   }
 ]
-
