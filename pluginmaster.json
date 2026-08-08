@@ -125,5 +125,29 @@
     "DownloadLinkInstall": "https://github.com/qliczz/KeySkillTimeline/releases/download/v0.2.0/KeySkillTimeline.zip",
     "DownloadLinkUpdate": "https://github.com/qliczz/KeySkillTimeline/releases/download/v0.2.0/KeySkillTimeline.zip",
     "DownloadLinkTesting": "https://github.com/qliczz/KeySkillTimeline/releases/download/v0.2.0/KeySkillTimeline.zip"
+  },
+  {
+    "Author": "斯温",
+    "Name": "副坦克监控",
+    "InternalName": "DualTankWatch",
+    "Description": "在原生焦点目标下方显示另一名坦克的血量、护盾和防御状态。支持从当前小队成员右键菜单加入或移除监控，并可点击监控框将角色设为游戏当前目标。命令：/dtw",
+    "Punchline": "在原生焦点目标下监控另一名坦克并点击选中。",
+    "Tags": [
+      "tank",
+      "party",
+      "hud",
+      "utility"
+    ],
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 15,
+    "AssemblyVersion": "0.3.0.0",
+    "TestingAssemblyVersion": "0.3.0.0",
+    "RepoUrl": "https://github.com/qliczz/DualTankWatch",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "LastUpdate": 1786178703,
+    "DownloadLinkInstall": "https://github.com/qliczz/DualTankWatch/releases/download/v0.3.0.0/DualTankWatch.zip",
+    "DownloadLinkUpdate": "https://github.com/qliczz/DualTankWatch/releases/download/v0.3.0.0/DualTankWatch.zip",
+    "DownloadLinkTesting": "https://github.com/qliczz/DualTankWatch/releases/download/v0.3.0.0/DualTankWatch.zip"
   }
 ]

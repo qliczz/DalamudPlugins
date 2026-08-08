@@ -12,6 +12,8 @@ https://github.com/qliczz/DalamudPlugins/releases/latest/download/pluginmaster.j
 - **W.T.H.F.** —— 在小地图 / 大地图 / 游戏画面中高亮好友、队友与部队成员
 - **Is that a crit？** —— 统计伤害、直暴运气、本队 DPS、技能时间轴与多目标数据
 - **旋转教练** —— 分析实际技能序列、GCD 节奏、延迟与停顿
+- **关键技能时间轴** —— 为妖星乱舞绝境战提供可编辑技能计划、提醒与自动校时
+- **副坦克监控** —— 在原生焦点目标下监控另一名坦克，支持右键加入与点击选中
 
 ## 如何添加（XIVLauncherCN）
 
