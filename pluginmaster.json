@@ -116,21 +116,21 @@
     ],
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "AssemblyVersion": "0.2.1.0",
-    "TestingAssemblyVersion": "0.2.1.0",
+    "AssemblyVersion": "0.2.2.0",
+    "TestingAssemblyVersion": "0.2.2.0",
     "RepoUrl": "https://github.com/qliczz/KeySkillTimeline",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1786181873,
-    "DownloadLinkInstall": "https://github.com/qliczz/KeySkillTimeline/releases/download/v0.2.1/KeySkillTimeline-v0.2.1.zip",
-    "DownloadLinkUpdate": "https://github.com/qliczz/KeySkillTimeline/releases/download/v0.2.1/KeySkillTimeline-v0.2.1.zip",
-    "DownloadLinkTesting": "https://github.com/qliczz/KeySkillTimeline/releases/download/v0.2.1/KeySkillTimeline-v0.2.1.zip"
+    "LastUpdate": 1786183404,
+    "DownloadLinkInstall": "https://github.com/qliczz/KeySkillTimeline/releases/download/v0.2.2/KeySkillTimeline-v0.2.2.zip",
+    "DownloadLinkUpdate": "https://github.com/qliczz/KeySkillTimeline/releases/download/v0.2.2/KeySkillTimeline-v0.2.2.zip",
+    "DownloadLinkTesting": "https://github.com/qliczz/KeySkillTimeline/releases/download/v0.2.2/KeySkillTimeline-v0.2.2.zip"
   },
   {
     "Author": "斯温",
     "Name": "副坦克监控",
     "InternalName": "DualTankWatch",
-    "Description": "在原生焦点目标下方显示自定义玩家的血量、护盾和防御状态。支持从任意当前可见玩家的右键菜单加入监控，也可使用 /dtw add 添加游戏当前目标；玩家重新进入读取范围后自动恢复。点击监控框可将角色设为游戏当前目标。命令：/dtw",
+    "Description": "在原生焦点目标下方显示自定义玩家的血量、护盾和防御状态。支持从任意当前可见玩家的右键菜单加入监控，也可使用 /dtw add 添加游戏当前目标；玩家重新进入读取范围后自动恢复。Debug 模式可显示右键捕获、保存身份、解析来源与窗口条件。点击监控框可将角色设为游戏当前目标。命令：/dtw",
     "Punchline": "在原生焦点目标下自定义监控另一名玩家并点击选中。",
     "Tags": [
       "tank",
@@ -140,14 +140,14 @@
     ],
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "AssemblyVersion": "0.4.0.0",
-    "TestingAssemblyVersion": "0.4.0.0",
+    "AssemblyVersion": "0.4.1.0",
+    "TestingAssemblyVersion": "0.4.1.0",
     "RepoUrl": "https://github.com/qliczz/DualTankWatch",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1786181873,
-    "DownloadLinkInstall": "https://github.com/qliczz/DualTankWatch/releases/download/v0.4.0.0/DualTankWatch.zip",
-    "DownloadLinkUpdate": "https://github.com/qliczz/DualTankWatch/releases/download/v0.4.0.0/DualTankWatch.zip",
-    "DownloadLinkTesting": "https://github.com/qliczz/DualTankWatch/releases/download/v0.4.0.0/DualTankWatch.zip"
+    "LastUpdate": 1786183404,
+    "DownloadLinkInstall": "https://github.com/qliczz/DualTankWatch/releases/download/v0.4.1.0/DualTankWatch.zip",
+    "DownloadLinkUpdate": "https://github.com/qliczz/DualTankWatch/releases/download/v0.4.1.0/DualTankWatch.zip",
+    "DownloadLinkTesting": "https://github.com/qliczz/DualTankWatch/releases/download/v0.4.1.0/DualTankWatch.zip"
   }
 ]
