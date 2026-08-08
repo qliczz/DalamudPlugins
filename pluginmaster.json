@@ -107,8 +107,8 @@
     "Author": "斯温",
     "Name": "关键技能时间轴",
     "InternalName": "KeySkillTimeline",
-    "Description": "为妖星乱舞绝境战的白魔法师提供紧凑悬浮技能时间轴与完整计划编辑器。支持当前提醒、下一技能倒计时、近期时间轴、锁定与鼠标穿透、中文语音、导入导出、手动及首领读条自动校时。命令：/kst",
-    "Punchline": "悬浮显示技能时间轴、提前提醒与读条校时。",
+    "Description": "为妖星乱舞绝境战的白魔法师提供下一技能悬浮倒计时与完整计划编辑器。悬浮窗只显示下一个技能名称和剩余秒数，支持自定义宽高、文字缩放、透明度、锁定与鼠标穿透；中文语音优先调用 EdgeTTS.Dalamud，并可回退 Windows TTS。命令：/kst",
+    "Punchline": "悬浮显示下一个技能与释放倒计时。",
     "Tags": [
       "timeline",
       "white mage",
@@ -116,21 +116,21 @@
     ],
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "AssemblyVersion": "0.2.2.0",
-    "TestingAssemblyVersion": "0.2.2.0",
+    "AssemblyVersion": "0.3.0.0",
+    "TestingAssemblyVersion": "0.3.0.0",
     "RepoUrl": "https://github.com/qliczz/KeySkillTimeline",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1786183404,
-    "DownloadLinkInstall": "https://github.com/qliczz/KeySkillTimeline/releases/download/v0.2.2/KeySkillTimeline-v0.2.2.zip",
-    "DownloadLinkUpdate": "https://github.com/qliczz/KeySkillTimeline/releases/download/v0.2.2/KeySkillTimeline-v0.2.2.zip",
-    "DownloadLinkTesting": "https://github.com/qliczz/KeySkillTimeline/releases/download/v0.2.2/KeySkillTimeline-v0.2.2.zip"
+    "LastUpdate": 1786185384,
+    "DownloadLinkInstall": "https://github.com/qliczz/KeySkillTimeline/releases/download/v0.3.0/KeySkillTimeline-v0.3.0.zip",
+    "DownloadLinkUpdate": "https://github.com/qliczz/KeySkillTimeline/releases/download/v0.3.0/KeySkillTimeline-v0.3.0.zip",
+    "DownloadLinkTesting": "https://github.com/qliczz/KeySkillTimeline/releases/download/v0.3.0/KeySkillTimeline-v0.3.0.zip"
   },
   {
     "Author": "斯温",
     "Name": "副坦克监控",
     "InternalName": "DualTankWatch",
-    "Description": "在原生焦点目标下方显示自定义玩家的血量、护盾和防御状态。支持从任意当前可见玩家的右键菜单加入监控，也可使用 /dtw add 添加游戏当前目标；玩家重新进入读取范围后自动恢复。Debug 模式可显示右键捕获、保存身份、解析来源与窗口条件。点击监控框可将角色设为游戏当前目标。命令：/dtw",
+    "Description": "在原生焦点目标下方显示自定义玩家的血量、护盾和防御状态。支持从任意当前可见玩家的右键菜单加入监控，也可使用 /dtw add 添加游戏当前目标；可自定义窗口宽高、内容缩放、透明度和位置偏移。Debug 模式可显示右键捕获、保存身份、解析来源与窗口条件。点击监控框可将角色设为游戏当前目标。命令：/dtw",
     "Punchline": "在原生焦点目标下自定义监控另一名玩家并点击选中。",
     "Tags": [
       "tank",
@@ -140,14 +140,14 @@
     ],
     "ApplicableVersion": "any",
     "DalamudApiLevel": 15,
-    "AssemblyVersion": "0.4.1.0",
-    "TestingAssemblyVersion": "0.4.1.0",
+    "AssemblyVersion": "0.4.2.0",
+    "TestingAssemblyVersion": "0.4.2.0",
     "RepoUrl": "https://github.com/qliczz/DualTankWatch",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1786183404,
-    "DownloadLinkInstall": "https://github.com/qliczz/DualTankWatch/releases/download/v0.4.1.0/DualTankWatch.zip",
-    "DownloadLinkUpdate": "https://github.com/qliczz/DualTankWatch/releases/download/v0.4.1.0/DualTankWatch.zip",
-    "DownloadLinkTesting": "https://github.com/qliczz/DualTankWatch/releases/download/v0.4.1.0/DualTankWatch.zip"
+    "LastUpdate": 1786185384,
+    "DownloadLinkInstall": "https://github.com/qliczz/DualTankWatch/releases/download/v0.4.2.0/DualTankWatch.zip",
+    "DownloadLinkUpdate": "https://github.com/qliczz/DualTankWatch/releases/download/v0.4.2.0/DualTankWatch.zip",
+    "DownloadLinkTesting": "https://github.com/qliczz/DualTankWatch/releases/download/v0.4.2.0/DualTankWatch.zip"
   }
 ]
