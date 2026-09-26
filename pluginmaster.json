@@ -149,5 +149,34 @@
     "DownloadLinkInstall": "https://github.com/qliczz/DualTankWatch/releases/download/v0.4.2.0/DualTankWatch.zip",
     "DownloadLinkUpdate": "https://github.com/qliczz/DualTankWatch/releases/download/v0.4.2.0/DualTankWatch.zip",
     "DownloadLinkTesting": "https://github.com/qliczz/DualTankWatch/releases/download/v0.4.2.0/DualTankWatch.zip"
+  },
+  {
+    "Author": "斯温",
+    "Name": "斯温·渲染比例（测试版）",
+    "InternalName": "RenderScale",
+    "AssemblyVersion": "0.1.0.0",
+    "Description": "国服测试版。25–400% 自定义内部渲染比例，实际尺寸读数、15 秒预览、一键恢复。仅支持核对过的客户端版本，当前要求游戏使用 FSR。高于 100% 会增加 GPU 和显存负载；游戏内画面、恢复与兼容性仍需实测。命令：/swr。基于 0x0ade 的 CustomResolution 与 FloppyUtils，遵循 AGPL-3.0。",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/qliczz/RenderScale",
+    "Tags": [
+      "graphics",
+      "resolution",
+      "scaling",
+      "orig:CustomResolution2782"
+    ],
+    "DalamudApiLevel": 15,
+    "LoadRequiredState": 0,
+    "LoadSync": false,
+    "CanUnloadAsync": true,
+    "LoadPriority": 0,
+    "Punchline": "独立调整 3D 渲染比例，保留窗口与 HUD 尺寸。",
+    "AcceptsFeedback": true,
+    "TestingAssemblyVersion": "0.1.0.0",
+    "IsHide": false,
+    "IsTestingExclusive": true,
+    "LastUpdate": 1790435207,
+    "DownloadLinkInstall": "https://github.com/qliczz/RenderScale/releases/download/v0.1.0-test.1/RenderScale.zip",
+    "DownloadLinkUpdate": "https://github.com/qliczz/RenderScale/releases/download/v0.1.0-test.1/RenderScale.zip",
+    "DownloadLinkTesting": "https://github.com/qliczz/RenderScale/releases/download/v0.1.0-test.1/RenderScale.zip"
   }
 ]
