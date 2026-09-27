@@ -15,6 +15,12 @@ https://github.com/qliczz/DalamudPlugins/releases/latest/download/pluginmaster.j
 - **关键技能时间轴** —— 为妖星乱舞绝境战提供可编辑技能计划、提醒与自动校时
 - **副坦克监控** —— 在原生焦点目标下监控另一名坦克，支持右键加入与点击选中
 
+## 待游戏内验收的测试插件
+
+- **斯温·渲染比例（RenderScale）** —— DLSS 25–100% / FSR 25–400% 实验性内部 3D 渲染比例，保留当前窗口与 HUD 尺寸，含实际尺寸读数、15 秒预览及恢复功能。
+  此项标记为 `IsTestingExclusive`，仅面向测试安装。跟随游戏已选择的 DLSS 或 FSR，限定已核对的国服程序与结构库。DLSS 高于 100% 尚未实现，100% 不保证 DLAA；游戏内画面、卸载恢复及 ReShade 兼容性尚未验收。
+  [源码和说明](https://github.com/qliczz/RenderScale) · [独立测试包](https://github.com/qliczz/RenderScale/releases/tag/v0.2.0-test.1)。
+
 ## 如何添加（XIVLauncherCN）
 
 1. 打开 XIVLauncherCN → 设置 → Dalamud 设置（或在游戏内输入 `/xlsettings`）。
